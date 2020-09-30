@@ -6,6 +6,9 @@
 
 body {
     background-color: #03ba9e;
+    background: url(cover.jpg);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
     height: 100vh;
     display: flex;
     justify-content: center;
@@ -14,7 +17,7 @@ body {
 }
 
 .container {
-    width: 250px;
+    width: 300px;
     height: 400px;
     background-color: white;
     border: none;
@@ -29,7 +32,7 @@ body {
 .title {
     width: 100%;
     height: 25%;
-    background: url(background.jpg);
+    background: url(DMDIKcyWsAEsKDj.jpg);
     color: white;
     display: flex;
     justify-content: center;
@@ -74,7 +77,7 @@ body {
 
 .list {
     width: 100%;
-    height: 60%;
+    height:80%;
     padding: 0 10px 10px 10px;
     overflow: auto;
 }
