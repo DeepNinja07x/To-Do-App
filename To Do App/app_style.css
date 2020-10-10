@@ -5,15 +5,25 @@
 }
 
 body {
-    background-color: #03ba9e;
-    background: url(cover.jpg);
-  background-repeat: no-repeat;
-  background-size: 100% 100%;
     height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
     font-family: 'Poppins', sans-serif;
+}
+
+.background {
+    position: absolute;
+    z-index: -1;
+    width: 100%;
+    height: 100%;
+    background-color: #000000;
+    -webkit-transition: background 1s;
+    -moz-transition: background 1s;
+    -o-transition: background 1s;
+    transition: background 1s;
+    animation: backgroundAnimation 50s ease-in-out infinite;
+    background-size: cover;
 }
 
 .container {
@@ -26,17 +36,21 @@ body {
     display: flex;
     flex-direction: column;
     overflow: hidden;
-    cursor: default;
+    cursor: default;    
 }
 
 .title {
     width: 100%;
     height: 25%;
-    background: url(DMDIKcyWsAEsKDj.jpg);
     color: white;
     display: flex;
     justify-content: center;
     align-items: center;
+    -webkit-transition: background 1s;
+    -moz-transition: background 1s;
+    -o-transition: background 1s;
+    transition: background 1s;
+    animation: cardAnimation 30s ease-in-out infinite;
 }
 
 .addSection {
@@ -113,4 +127,33 @@ i.fas.fa-trash-alt:active {
 }
 .taskContainer:hover i.fas.fa-check, .taskContainer:hover i.fas.fa-trash-alt {
     opacity: 1;
+}
+
+/* Cards animation */
+@keyframes cardAnimation {
+    0%, 100% {
+        background-image: url('./img/cards/card-cover-0.jpg');
+    }
+    50% {
+        background-image: url('./img/cards/card-cover-1.jpg');
+    }
+}
+
+/* background animation */
+@keyframes backgroundAnimation {
+    0%, 100% {
+        background-image: url('./img/backgrounds/background-cover-0.jpg');
+    }
+    20% {
+        background-image: url('./img/backgrounds/background-cover-3.jpg');
+    }
+    40% {
+        background-image: url('./img/backgrounds/background-cover-0.jpg');
+    }
+    60% {
+        background-image: url('./img/backgrounds/background-cover-4.jpg');
+    }
+    80% {
+        background-image: url('./img/backgrounds/background-cover-3.jpg');
+    }
 }
