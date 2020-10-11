@@ -6,7 +6,7 @@ It's a web based prototype of a simple __TO DO__ application made using __HTML5_
 # Program Screenshot
 
 <br>
-<p align="center"><img src="https://github.com/DeepNinja07x/To-Do-App/blob/master/To%20Do%20App/Screenshot%20(38).png" align="center" alt="screenshot"></p>
+<p align="center"><img src="https://github.com/DeepNinja07x/To-Do-App/blob/master/To%20Do%20App/img/to-do-app-screenshot.png" align="center" alt="screenshot"></p>
 
 ---
 # How to Contribute:
