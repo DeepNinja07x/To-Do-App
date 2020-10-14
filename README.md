@@ -45,3 +45,13 @@ All Contributions of the Contributors can be found in the [__Contributions__](ht
               </sub>
           </a>
       </td>
+     <td align="center">
+      <a href="https://github.com/Alekhya003">
+              <img src="https://avatars2.githubusercontent.com/u/69395178?s=400&u=c33cc751d7e9bc66730e91e4a901ee9ba2e01a0b&v=4" width="100px;" alt="Alekhya003"/><br />
+              <sub>
+                  <b>
+                      <strong>Alekhya Roy</strong>
+                  </b>
+              </sub>
+          </a>
+      </td>
