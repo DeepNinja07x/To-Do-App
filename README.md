@@ -18,3 +18,8 @@ All contributions are welcomed. Follow these __Guidelines__:
 - Step 4: Click on Pull Request.
 - For more detailed steps for __How to Contribute__ or __How to Sync__, follow [__Contributing.md__](https://github.com/DeepNinja07x/To-Do-App/blob/master/CONTRIBUTING.md) file.
 #### Voila..... You just made your first Pull Request.
+
+---
+# Contributors Wall:
+
+All Contributions of the Contributors can be found in the [__Contributions__](https://github.com/DeepNinja07x/To-Do-App/graphs/contributors) section.
