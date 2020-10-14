@@ -20,10 +20,10 @@
 -  Push changes
     > git push -u origin <Name_Of_Your_Branch>
  
--  Create pull requests
+-  Create your pull request [Try to Mention the related issue for your PR] 
 
 -  Add your details in [__Contributors.md__](https://github.com/DeepNinja07x/To-Do-App/blob/master/Contributors.md) file.
-[Try to Mention the related issue for your PR] 
+
 <br/>
 
 # How to Sync the Repo!
