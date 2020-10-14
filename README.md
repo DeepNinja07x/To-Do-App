@@ -40,7 +40,7 @@ All Contributions of the Contributors can be found in the [__Contributions__](ht
               <img src="https://avatars0.githubusercontent.com/u/52314477?s=400&u=1887ecc3afa1e867af50336a3af7ed56b21dc604&v=4" width="100px;" alt="Alekhya003"/><br />
               <sub>
                   <b>
-                      <strong>Deepraj Rakshit</strong>
+                      <strong>Alekhya Roy</strong>
                   </b>
               </sub>
           </a>
