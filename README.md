@@ -55,3 +55,5 @@ All Contributions of the Contributors can be found in the [__Contributions__](ht
               </sub>
           </a>
       </td>
+  </tr>
+</table>
