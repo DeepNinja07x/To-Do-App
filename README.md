@@ -47,7 +47,7 @@ All Contributions of the Contributors can be found in the [__Contributions__](ht
       </td>
      <td align="center">
       <a href="https://github.com/LeonardoZanotti">
-              <img src="https://avatars0.githubusercontent.com/u/61800222?s=400&u=e9d279466a0fa32124011ed39d803cb447cdf854&v=4" width="100px;" alt="Alekhya003"/><br />
+              <img src="https://avatars0.githubusercontent.com/u/61800222?s=400&u=e9d279466a0fa32124011ed39d803cb447cdf854&v=4" width="100px;" alt="LeonardoZanotti"/><br />
               <sub>
                   <b>
                       <strong>Leonardo Zanotti</strong>
